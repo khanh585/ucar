@@ -1,0 +1,2 @@
+ALIVE=False
+DELETED=True
